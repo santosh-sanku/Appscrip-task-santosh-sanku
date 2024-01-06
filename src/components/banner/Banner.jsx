@@ -8,7 +8,7 @@ const Banner = () => {
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
         consequatur officia dolor obcaecati voluptatibus commodi consectetur ad
-        corporis voluptas?
+        corporis voluptas
       </p>
     </div>
   );
