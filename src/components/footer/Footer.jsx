@@ -8,24 +8,24 @@ const Footer = () => {
         <div className="muse">
           <h3>metta muse</h3>
 
-          <a className="no-style">About Us</a>
-          <a className="no-style">Stories</a>
-          <a className="no-style">Artisans</a>
-          <a className="no-style">Boutiques</a>
-          <a className="no-style">Contact Us</a>
-          <a className="no-style">EU Compliances Docs</a>
+          <p className="no-style">About Us</p>
+          <p className="no-style">Stories</p>
+          <p className="no-style">Artisans</p>
+          <p className="no-style">Boutiques</p>
+          <p className="no-style">Contact Us</p>
+          <p className="no-style">EU Compliances Docs</p>
         </div>
 
         <div className="links">
           <h3>QUICK LINKS</h3>
 
-          <a className="no-style">Orders & Shipping</a>
-          <a className="no-style">Join/Login as a Seller</a>
-          <a className="no-style">Payment & Pricing</a>
-          <a className="no-style">Return & Refunds</a>
-          <a className="no-style">FAQs</a>
-          <a className="no-style">FAQs</a>
-          <a className="no-style">Terms & Conditions</a>
+          <p className="no-style">Orders & Shipping</p>
+          <p className="no-style">Join/Login as a Seller</p>
+          <p className="no-style">Payment & Pricing</p>
+          <p className="no-style">Return & Refunds</p>
+          <p className="no-style">FAQs</p>
+          <p className="no-style">FAQs</p>
+          <p className="no-style">Terms & Conditions</p>
         </div>
 
         <div className="social-payments">
