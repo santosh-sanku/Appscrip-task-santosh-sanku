@@ -8,50 +8,24 @@ const Footer = () => {
         <div className="muse">
           <h3>metta muse</h3>
 
-          <a className="no-style" href="javascript:void(0)">
-            About Us
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Stories
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Artisans
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Boutiques
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Contact Us
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            EU Compliances Docs
-          </a>
+          <a className="no-style">About Us</a>
+          <a className="no-style">Stories</a>
+          <a className="no-style">Artisans</a>
+          <a className="no-style">Boutiques</a>
+          <a className="no-style">Contact Us</a>
+          <a className="no-style">EU Compliances Docs</a>
         </div>
 
         <div className="links">
           <h3>QUICK LINKS</h3>
 
-          <a className="no-style" href="javascript:void(0)">
-            Orders & Shipping
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Join/Login as a Seller
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Payment & Pricing
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Return & Refunds
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            FAQs
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            FAQs
-          </a>
-          <a className="no-style" href="javascript:void(0)">
-            Terms & Conditions
-          </a>
+          <a className="no-style">Orders & Shipping</a>
+          <a className="no-style">Join/Login as a Seller</a>
+          <a className="no-style">Payment & Pricing</a>
+          <a className="no-style">Return & Refunds</a>
+          <a className="no-style">FAQs</a>
+          <a className="no-style">FAQs</a>
+          <a className="no-style">Terms & Conditions</a>
         </div>
 
         <div className="social-payments">
