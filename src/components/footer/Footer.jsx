@@ -8,22 +8,22 @@ const Footer = () => {
         <div className="muse">
           <h3>metta muse</h3>
 
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             About Us
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Stories
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Artisans
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Boutiques
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Contact Us
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             EU Compliances Docs
           </a>
         </div>
@@ -31,25 +31,25 @@ const Footer = () => {
         <div className="links">
           <h3>QUICK LINKS</h3>
 
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Orders & Shipping
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Join/Login as a Seller
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Payment & Pricing
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Return & Refunds
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             FAQs
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             FAQs
           </a>
-          <a className="no-style" href="#">
+          <a className="no-style" href="javascript:void(0)">
             Terms & Conditions
           </a>
         </div>
