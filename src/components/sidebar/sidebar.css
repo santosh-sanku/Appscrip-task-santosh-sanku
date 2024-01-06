@@ -1,0 +1,28 @@
+/* .sidebar {
+  margin: 20px 500px;
+  padding: 20px;
+} */
+
+.top {
+  display: flex;
+  width: 300px;
+  align-items: center;
+  gap: 24px;
+}
+
+.head {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  border-top: 1px solid #e5e5e5;
+}
+
+.child {
+  width: 300px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: start;
+}
